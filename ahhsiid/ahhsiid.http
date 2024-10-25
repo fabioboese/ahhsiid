@@ -1,0 +1,6 @@
+@ahhsiid_HostAddress = http://localhost:5104
+
+GET {{ahhsiid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
